@@ -6,3 +6,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 ### metro gialla
 - comasina
 - affori fn
+- affori centro
