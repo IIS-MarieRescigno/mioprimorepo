@@ -19,3 +19,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - missori
 - crocetta
 - porta romana
+- lodi tibb
