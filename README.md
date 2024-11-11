@@ -24,3 +24,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - corvetto
 - porto di mare
 - rogoredo fs
+- san donato
