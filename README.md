@@ -23,3 +23,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - brenta
 - corvetto
 - porto di mare
+- rogoredo fs
