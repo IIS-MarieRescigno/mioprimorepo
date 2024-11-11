@@ -13,3 +13,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - sondrio
 - centrale fs
 - repubblica
+- turati
