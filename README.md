@@ -9,3 +9,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - affori centro
 - dergano
 - maciachini
+- zara
