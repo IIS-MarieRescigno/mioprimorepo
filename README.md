@@ -8,3 +8,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - affori fn
 - affori centro
 - dergano
+- maciachini
