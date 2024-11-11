@@ -5,3 +5,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 ## fermata della metro di milano
 ### metro gialla
 - comasina
+- affori fn
