@@ -21,3 +21,4 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - porta romana
 - lodi tibb
 - brenta
+- corvetto
