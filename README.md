@@ -16,3 +16,5 @@ Questo è il mio primo repository git; lo imparerò nelle lezioni di TPS.
 - turati
 - montenapoleone
 - duomo
+### metro rossa
+- san babila
